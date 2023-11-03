@@ -1,8 +1,9 @@
-package com.example.demo.controller;
+package com.majedul.product.controller;
 
-import com.example.demo.dto.ProductRequest;
-import com.example.demo.dto.ProductResponse;
-import com.example.demo.service.ProductService;
+
+import com.majedul.product.dto.ProductRequest;
+import com.majedul.product.dto.ProductResponse;
+import com.majedul.product.service.ProductService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

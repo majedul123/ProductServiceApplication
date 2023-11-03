@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.majedul.product;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

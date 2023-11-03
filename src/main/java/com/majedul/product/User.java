@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.majedul.product;
 
 import org.springframework.data.annotation.Id;
 import org.springframework.data.mongodb.core.mapping.Document;

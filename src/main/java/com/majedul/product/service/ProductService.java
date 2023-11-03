@@ -1,12 +1,12 @@
-package com.example.demo.service;
+package com.majedul.product.service;
 
-import com.example.demo.dto.ProductRequest;
-import com.example.demo.dto.ProductResponse;
-import com.example.demo.model.Product;
-import com.example.demo.repo.ProductRepository;
+
+import com.majedul.product.dto.ProductRequest;
+import com.majedul.product.dto.ProductResponse;
+import com.majedul.product.model.Product;
+import com.majedul.product.repo.ProductRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

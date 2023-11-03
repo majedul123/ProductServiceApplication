@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.majedul.product;
 
 import java.util.List;
 
